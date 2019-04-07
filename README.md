@@ -14,3 +14,7 @@ Favor is a React app to search for restaurants using the Yelp API.
 ### API Reference
 
 [Yelp API](https://www.yelp.com/developers/documentation/v3/get_started)
+
+
+### Demo
+[demo](http://well-to-do-riddle.surge.sh/)
